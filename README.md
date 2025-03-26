@@ -17,6 +17,6 @@ Sou um desenvolvedor apaixonado por tecnologia e atualmente estou me aprofundand
 
 ### 📫 Como me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
-📩 **E-mail:** seuemail@email.com
+📩 **E-mail:** bielosik@gmail.com
 
 Sempre aberto a novas conexões, projetos e oportunidades! 😃
