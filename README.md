@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriel!
 
-### 💻 Fullstack Web & Mobile Developer
+### Sistemas de Informação | Desenvolvimento de Software | Análise de Dados | Inglês Avançado
 
 Sou um desenvolvedor apaixonado por tecnologia e atualmente estou me aprofundando no desenvolvimento Fullstack, com foco em **React.js, React Native e Kotlin**. Sempre buscando aprendizado e desafios, gosto de aplicar meus conhecimentos em projetos práticos que possam gerar impacto.
 
