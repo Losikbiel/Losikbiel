@@ -12,9 +12,9 @@ Sou um desenvolvedor apaixonado por tecnologia e atualmente estou me aprofundand
 - **Versionamento:** Git & GitHub
 
 ### Projetos Destacados
-- ** Wiki Interno** – Desenvolvendo uma plataforma de documentação para minha empresa, utilizando **React.js, Node.js e PostgreSQL**.
-- ** Translate Game App** – Aplicativo mobile em **Kotlin** para aprendizado de idiomas de forma interativa.
-- ** Landing page Furia** - Landing page criada para um processo seletivo para empresa da Furia E-sports.  
+- **Wiki Interno** – Desenvolvendo uma plataforma de documentação para minha empresa, utilizando **React.js, Node.js e PostgreSQL**.
+- **Translate Game App** – Aplicativo mobile em **Kotlin** para aprendizado de idiomas de forma interativa.
+- **Landing page Furia** - Landing page criada para um processo seletivo para empresa da Furia E-sports.  
 
 ###  Como me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-losik-5b9165231/)  
